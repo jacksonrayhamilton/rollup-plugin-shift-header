@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-shift-header",
   "description": "Shift a \"comment header\" to the top of a bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "shift-header",
   "dependencies": {
     "magic-string": "^0.22.4"
